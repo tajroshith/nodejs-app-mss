@@ -1,7 +1,7 @@
 version: '3.8'
 services:
  nodejsapp:
-  image: zookl0/maven-web-application:VERSION
+  image: zookl0/node-js-app:VERSION
   ports:
   - 9981:9981
   networks:
