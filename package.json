@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://172.31.42.82:8081/taj/repository/nodejs/"
+    "registry": "http://13.201.90.82:8081/taj/repository/nodejs/"
   },
   
   "scripts": {
